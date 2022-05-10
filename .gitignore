@@ -1,9 +1,7 @@
 # Audio, Graphics and Plugins folders
 Audio/
 Graphics/*
-!Graphics/Characters
 Graphics/Characters/*
-!Graphics/Pictures
 Graphics/Pictures/*
 !Graphics/Characters/trainer_CASSIE.png
 !Graphics/Characters/trainer_SCARY.png
@@ -15,6 +13,12 @@ Graphics/Pictures/*
 !Graphics/Pictures/introFruity.png
 !Graphics/Pictures/introScary.png
 !Graphics/Pictures/introDedenne.png
+!Graphics/Pokemon
+!Graphics/Pokemon/*
+Graphics/Pokemon/*/*
+!Graphics/Pokemon/*/DEDENNE.png
+
+
 Plugins/
 
 # Data folder, but not Data/Scripts folder
