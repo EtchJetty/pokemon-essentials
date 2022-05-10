@@ -24,7 +24,7 @@
 21,PAINTER,Painter,16,,,,Female,,
 22,POKEMANIAC,Poké Maniac,64,,,,Male,,
 23,POKEMONBREEDER,Pokémon Breeder,48,,,,Female,,
-24,PROFESSOR,Professor,100,,,,Male,,
+24,PROFESSOR,Professor,100,,,,Female,,
 25,ROCKER,Rocker,24,,,,Male,,
 26,RUINMANIAC,Ruin Maniac,48,,,,Male,,
 27,SAILOR,Sailor,32,,,,Male,,
@@ -72,3 +72,4 @@
 69,ELITEFOUR_Agatha,Elite Four,100,Battle Elite,Battle victory leader,,Female,,
 70,ELITEFOUR_Lance,Elite Four,100,Battle Elite,Battle victory leader,,Male,,
 71,CHAMPION,Champion,100,Battle Elite,Battle victory leader,,Male,,
+72,SCARY,Scary,30,,,,Mixed,,

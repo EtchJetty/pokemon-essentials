@@ -1,6 +1,16 @@
 # Audio, Graphics and Plugins folders
 Audio/
 Graphics/
+!Graphics/Characters/trainer_CASSIE.png
+!Graphics/Characters/trainer_SCARY.png
+!Graphics/Characters/trainer_FRUITY.png
+!Graphics/Characters/scary_run.png
+!Graphics/Characters/trainer_CASSIE.png
+!Graphics/Pictures/introCass.png
+!Graphics/Pictures/introFruityEyes.png
+!Graphics/Pictures/introFruity.png
+!Graphics/Pictures/introScary.png
+!Graphics/Pictures/introDedenne.png
 Plugins/
 
 # Data folder, but not Data/Scripts folder
