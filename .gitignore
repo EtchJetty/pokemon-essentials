@@ -1,6 +1,10 @@
 # Audio, Graphics and Plugins folders
 Audio/
 Graphics/*
+!Graphics/Characters
+Graphics/Characters/*
+!Graphics/Pictures
+Graphics/Pictures/*
 !Graphics/Characters/trainer_CASSIE.png
 !Graphics/Characters/trainer_SCARY.png
 !Graphics/Characters/trainer_FRUITY.png
